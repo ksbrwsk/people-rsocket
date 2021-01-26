@@ -1,2 +1,3 @@
-# people-rsocket
-Spring Boot RSoket Example with security.
+### people-rsocket
+
+Spring Boot RSocket Example with basic security.
